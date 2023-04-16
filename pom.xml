@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>org.ma.okta.security</groupId>
-    <artifactId>org-okta-security</artifactId>
+    <artifactId>oauth-okta-security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>OktaSecurity</name>
     <description>Demo project for Spring Boot</description>

@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@RequestMapping("okta/authentication")
+@RequestMapping("oauth/okta/authentication")
 public class UserController {
     private UserService userService;
     private JwtGeneratorInterface jwtGenerator;
